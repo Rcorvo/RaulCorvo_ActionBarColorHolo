@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="acercade">About...</string>
+    <string name="anyadir">Add</string>
+    <string name="app_name">ListView and ActionBar</string>
+    <string name="restablecer">Restore</string>
+    <string name="textoSobre">In this application the variations shown between
+    the use of the menu ActionBar and depending on the level of the API</string>
+</resources>

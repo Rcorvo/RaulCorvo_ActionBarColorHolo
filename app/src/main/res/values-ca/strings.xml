@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListView and ActionBar</string>
+    <string name="restablecer">Restablir</string>
+    <string name="anyadir">Afegir</string>
+    <string name="acercade">Sobre...</string>
+    <string name="textoSobre">En aquesta aplicació es mostra les variacions entre     l\'ús de la ActionBar i el menú depenent del nivell d\'API de la mateixa</string>
+</resources>

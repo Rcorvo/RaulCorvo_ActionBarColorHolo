@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView and ActionBar</string>
+
+    <string name="anyadir">Add</string>
+    <string name="restablecer">Restore</string>
+    <string name="acercade">About...</string>
+
+    <string name="textoSobre">In this application the variations shown between
+    the use of the menu ActionBar and depending on the level of the API</string>
+</resources>
