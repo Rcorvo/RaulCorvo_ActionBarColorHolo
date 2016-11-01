@@ -20,6 +20,7 @@ public class MainActivity extends ListActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getActionBar().setDisplayShowHomeEnabled(true);
 
         //Se llama al método que inicializa el adapter y se lo asigna al ListView
         adaptar();

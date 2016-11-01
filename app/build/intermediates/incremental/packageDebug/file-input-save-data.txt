@@ -1,6 +1,5 @@
 #Internal package file, do not edit.
-#Mon Oct 31 14:13:00 CET 2016
-20.set=DEX
+#Tue Nov 01 12:12:38 CET 2016
 19.set=DEX
 8.set=DEX
 1.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
@@ -21,20 +20,20 @@
 13.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_a239f02efbdb04e70d8df4c85a3980cb178c51c4
 11.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
-15.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\menu_main.xml
+15.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
 15.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-18.set=ANDROID_RESOURCE
-17.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
-17.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+18.set=DEX
+17.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+17.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 7.set=DEX
-19.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
-19.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+19.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
+19.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
 14.set=DEX
 3.set=ANDROID_RESOURCE
 10.set=DEX
 0.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 0.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-17.set=DEX
+17.set=ANDROID_RESOURCE
 6.set=DEX
 2.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8\\classes.dex
 2.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_8
@@ -48,19 +47,17 @@
 8.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 8.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
 2.set=DEX
-20.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5\\classes.dex
-20.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_5
 12.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-hdpi-v4\\ic_launcher.png
 12.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_
 14.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex
 14.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
-16.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxxhdpi-v4\\ic_launcher.png
-16.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_
+16.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
+16.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
 9.set=ANDROID_RESOURCE
-count=21
-18.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
-18.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\resources-debug.ap_
-16.set=ANDROID_RESOURCE
+count=20
+18.file=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex
+18.base=C\:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+16.set=DEX
 5.set=DEX
 12.set=ANDROID_RESOURCE
 1.set=DEX

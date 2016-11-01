@@ -11,7 +11,14 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml"
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 45,
+                        "endOffset": 254
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 139
                 },
                 "from": {
-                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml"
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 42,
+                        "endOffset": 207
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 199
                 },
                 "from": {
-                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml"
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 249
                 },
                 "from": {
-                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml"
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 49,
+                        "endOffset": 163
+                    }
                 }
             },
             {

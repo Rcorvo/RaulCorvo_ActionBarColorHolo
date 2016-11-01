@@ -5,33 +5,40 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="97822129143603"
+    timestamp="50747419737541"
     token="-4840900359195579785"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="156" />
+        duration="204" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="9" />
+        duration="34" />
     <task
         name="verifier"
-        duration="2" />
+        duration="4" />
 
     <artifact
-        location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="97822129143603"
+        timestamp="50362602601255"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="50747419737541"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>
