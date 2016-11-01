@@ -98,5 +98,105 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ca\\values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 45,
+                        "endOffset": 254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 101,
+                    "endColumn": 42,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 169,
+                        "endColumn": 42,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 59,
+                    "endOffset": 199
+                },
+                "from": {
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 204,
+                    "endColumn": 49,
+                    "endOffset": 249
+                },
+                "from": {
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endColumn": 49,
+                        "endOffset": 163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 254,
+                    "endColumn": 167,
+                    "endOffset": 417
+                },
+                "from": {
+                    "file": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 260,
+                        "endColumn": 167,
+                        "endOffset": 423
+                    }
+                }
+            }
+        ]
     }
 ]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ab_background_textured_example.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\drawable\\ab_background_textured_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spinner_background_ab_example.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\drawable\\spinner_background_ab_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_cab_done_example.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\drawable\\btn_cab_done_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_horizontal_example.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\drawable\\progress_horizontal_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_indicator_ab_example.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\drawable\\tab_indicator_ab_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectable_background_example.xml",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\drawable\\selectable_background_example.xml"
+    }
+]

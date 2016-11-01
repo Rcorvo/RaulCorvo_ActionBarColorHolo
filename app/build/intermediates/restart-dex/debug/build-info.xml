@@ -5,40 +5,33 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="50747419737541"
+    timestamp="52441189594976"
     token="-4840900359195579785"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="MANIFEST_FILE_CHANGE" >
 
     <task
         name="javac"
-        duration="204" />
+        duration="133" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="34" />
+        duration="62" />
     <task
         name="verifier"
-        duration="4" />
+        duration="35" />
 
     <artifact
-        location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar_Holo\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="50362602601255"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="52441189594976"
+        verifier="MANIFEST_FILE_CHANGE" >
         <artifact
-            location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar_Holo\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="50747419737541"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Raul Corvo\AndroidStudioProjects\ListViewyActionBar\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

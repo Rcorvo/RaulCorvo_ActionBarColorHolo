@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Raul Corvo\\AndroidStudioProjects\\ListViewyActionBar_Holo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }
 ]
